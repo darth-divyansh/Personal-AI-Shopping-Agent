@@ -1,0 +1,10 @@
+python-telegram-bot==22.2
+langchain==0.2.17
+langchain-google-genai>=0.1.0
+google-generativeai>=0.5.0
+python-dotenv>=1.0.1
+motor>=3.3.2
+serpapi
+openai-whisper>=2024.04.08
+pydub>=0.25.1          # audio conversion helper
+selenium>=4.21.0       # only needed for /buy automation

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\bansa\\OneDrive\\Documents\\Wallmart\\r3f-virtual-girlfriend-backend\\r3f-virtual-girlfriend-backend\\audios\\wally_hello.wav",
+    "duration": 4.28
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.05, "value": "B" },
+    { "start": 0.05, "end": 0.17, "value": "D" },
+    { "start": 0.17, "end": 0.31, "value": "B" },
+    { "start": 0.31, "end": 0.45, "value": "C" },
+    { "start": 0.45, "end": 0.55, "value": "A" },
+    { "start": 0.55, "end": 0.63, "value": "F" },
+    { "start": 0.63, "end": 0.70, "value": "E" },
+    { "start": 0.70, "end": 0.91, "value": "B" },
+    { "start": 0.91, "end": 1.05, "value": "F" },
+    { "start": 1.05, "end": 1.26, "value": "B" },
+    { "start": 1.26, "end": 1.33, "value": "F" },
+    { "start": 1.33, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.54, "value": "F" },
+    { "start": 1.54, "end": 1.68, "value": "E" },
+    { "start": 1.68, "end": 1.76, "value": "A" },
+    { "start": 1.76, "end": 1.98, "value": "B" },
+    { "start": 1.98, "end": 2.05, "value": "D" },
+    { "start": 2.05, "end": 2.13, "value": "A" },
+    { "start": 2.13, "end": 2.57, "value": "B" },
+    { "start": 2.57, "end": 2.71, "value": "C" },
+    { "start": 2.71, "end": 3.04, "value": "B" },
+    { "start": 3.04, "end": 3.15, "value": "C" },
+    { "start": 3.15, "end": 3.29, "value": "B" },
+    { "start": 3.29, "end": 3.37, "value": "A" },
+    { "start": 3.37, "end": 3.48, "value": "B" },
+    { "start": 3.48, "end": 3.62, "value": "C" },
+    { "start": 3.62, "end": 3.69, "value": "B" },
+    { "start": 3.69, "end": 3.77, "value": "A" },
+    { "start": 3.77, "end": 3.92, "value": "C" },
+    { "start": 3.92, "end": 4.27, "value": "B" },
+    { "start": 4.27, "end": 4.28, "value": "X" }
+  ]
+}
