@@ -7,6 +7,7 @@ Walmart-Personal-AI-Shopping-Assistant is an advanced, interactive shopping agen
 ---
 
 ## Demo 🌐
+### Click me ⬇️
 [![Watch the demo](https://img.youtube.com/vi/3WptJIvEloA/hqdefault.jpg)](https://youtu.be/3WptJIvEloA)
 
 ## Features ✨
