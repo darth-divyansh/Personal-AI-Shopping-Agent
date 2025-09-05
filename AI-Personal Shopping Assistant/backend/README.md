@@ -1,10 +1,11 @@
+##This was the original Inspiration!!
 
 
 ![Video Thumbnail](https://img.youtube.com/vi/EzzcEL_1o9o/maxresdefault.jpg)
 
 [Video tutorial](https://youtu.be/EzzcEL_1o9o)
 
-The frontend is [here](https://github.com/wass08/r3f-virtual-girlfriend-frontend).
+The frontend is [here](https://github.com/darth-divyansh/Personal-AI-Shopping-Agent/tree/main/AI-Personal%20Shopping%20Assistant/frontend).
 
 ## Setup
 Create a `.env` file at the root of the repository to add your **OpenAI** and **ElevenLabs API Keys**. Refer to `.env.example` for the environment variable names.
