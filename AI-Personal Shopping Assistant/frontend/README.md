@@ -2,7 +2,7 @@
 
 [Video tutorial](https://youtu.be/EzzcEL_1o9o)
 
-The backend is [here](https://github.com/wass08/r3f-virtual-girlfriend-backend).
+The backend is [here](https://github.com/darth-divyansh/Personal-AI-Shopping-Agent/tree/main/AI-Personal%20Shopping%20Assistant/backend).
 
 Start the development server with
 ```
